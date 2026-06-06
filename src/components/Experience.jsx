@@ -3,6 +3,13 @@ import SectionLabel from './SectionLabel'
 
 const experiences = [
   {
+    date: 'Actualidad',
+    title: 'Sales and Support Analyst',
+    company: 'Elipse AI · Chile',
+    desc: 'Soporte operativo y comercial en proyectos de IA conversacional. Desarrollo e implementación de chatbots utilizando Verbio y Voximplant, integración de modelos LLM y arquitecturas RAG, análisis de datos, generación de reportes SQL y Excel, gestión de clientes y coordinación entre equipos técnicos y comerciales para entornos de PoC y producción.',
+    tags: ['LLM', 'RAG', 'SQL', 'Excel', 'Voximplant', 'Verbio', 'Chatbots', 'IA'],
+  },
+  {
     date: 'Experiencia real',
     title: 'Full Stack Developer',
     company: 'Entorno productivo · Chile',
